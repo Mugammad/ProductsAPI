@@ -1,0 +1,12 @@
+#output{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.box img {
+    height: 50vh;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
